@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#hero
+{
+	width: 100%;	
+	background-image: url("../images/Untitled-1.png");
+	background-repeat: no-repeat; background-size: cover
+
+}
+
+#testimonial
+{
+	width: 100%;	
+	background-image:url("../images/ngoi sao 2.jpg");
+	background-repeat: no-repeat; background-size: cover
+}
